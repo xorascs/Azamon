@@ -72,7 +72,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/azamon.git
+git clone https://github.com/xorascs/azamon.git
 
 # Install dependencies
 npm install
