@@ -10,12 +10,22 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
   <div style="background: white; padding: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); flex: 1 1 200px;">
-    <h3 style="color: #ff9900; margin-top: 0;">⚡ Next.js Frontend</h3>
+    <h3 style="color: #ff9900; margin-top: 0;">
+      <span style="background: #5a21b6; color: white; padding: 5px 10px 5px 10px; border-radius: 20px; font-size: 0.9em; display: flex; align-items: center; gap: 8px;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="NextJS" style="width: 20px; height: 20px;" />
+      </span>
+      Next.js Frontend
+    </h3>
     <p>Modern React framework for server-side rendering and static generation</p>
   </div>
   
   <div style="background: white; padding: 15px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); flex: 1 1 200px;">
-    <h3 style="color: #ff9900; margin-top: 0;">🔧 Nest.js Backend</h3>
+    <h3 style="color: #ff9900; margin-top: 0;">
+      <span style="background: #5a21b6; color: white; padding: 5px 10px 5px 10px; border-radius: 20px; font-size: 0.9em; display: flex; align-items: center; gap: 8px;">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="NestJS" style="width: 20px; height: 20px;" />
+      </span>
+      Nest.js Backend
+    </h3>
     <p>Scalable server-side application architecture</p>
   </div>
   
@@ -65,6 +75,9 @@
   </span>
   <span style="background: #5a21b6; color: white; padding: 5px 10px 5px 10px; border-radius: 20px; font-size: 0.9em; display: flex; align-items: center; gap: 8px;">
     <img src="https://github.com/user-attachments/assets/34fca52a-b5ad-4dea-9976-f567ad1a07ee" alt="DaisyUI" style="width: 50px; height: 50px;" />
+  </span>
+  <span style="background: #5a21b6; color: white; padding: 5px 10px 5px 10px; border-radius: 20px; font-size: 0.9em; display: flex; align-items: center; gap: 8px;">
+    <img src="https://github.com/user-attachments/assets/e61237d8-d005-4d63-ae25-4021271e1e2c" alt="DaisyUI" style="width: 50px; height: 50px;" />
   </span>
 </div>
 
