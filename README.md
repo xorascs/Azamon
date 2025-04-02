@@ -2,7 +2,7 @@
 
 <div style="background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%); padding: 20px; border-radius: 10px; border-left: 5px solid #ff9900; margin: 20px 0;">
   <p style="font-size: 1.1em; line-height: 1.6; color: #333;">
-    A lightweight Amazon clone built with modern technologies including Next.js, Nest.js, microservices architecture, payment system, and multi-database system.
+    A lightweight Amazon clone built with modern technologies including Next.js, Nest.js, microservices architecture, payment system, websockets and multi-database system.
   </p>
 </div>
 
